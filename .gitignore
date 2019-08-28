@@ -1,0 +1,5 @@
+kernel.elf
+kernel.bin
+kernel.sym
+.dep
+.bld
