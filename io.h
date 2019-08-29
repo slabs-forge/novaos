@@ -2,9 +2,9 @@
   NovaOS
 ******************************************************************************/
 
-#ifndef __NOVAOS_KERNEL_H__
-#define __NOVAOS_KERNEL_H__
+#ifndef __NOVAOS_IO_H__
+#define __NOVAOS_IO_H__
 
-#include "types.h"
+#define IO_BASE 0x3F000000
 
 #endif
